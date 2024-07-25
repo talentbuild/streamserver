@@ -1,0 +1,3 @@
+username:love
+email: dompsonsamuel@gmail.com
+password: @2024love+_me
